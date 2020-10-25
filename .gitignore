@@ -1,4 +1,4 @@
-.pdf
-.jar
-.zip
+*.pdf
+*.jar
+*.zip
 
